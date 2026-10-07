@@ -1,0 +1,13 @@
+# Versions exercised by the demo test suite; optional models not included.
+fastapi==0.142.2
+uvicorn==0.54.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-multipart==0.0.32
+numpy==2.2.6
+opencv-python-headless==4.14.0.94
+Pillow==12.3.0
+scikit-learn==1.8.0
+pytest==9.1.1
+httpx==0.28.1
+starlette==1.7.0
